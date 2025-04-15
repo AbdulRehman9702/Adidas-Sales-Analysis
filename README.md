@@ -1,4 +1,4 @@
-# Adidas-Sales-Analysis
+# Adidas-Sales-Analysis (PowerBI, Excel)
 
 # Cleaned and processed sales data using Excel functions.
 # Identified data inconsistencies and resolved discrepancies to ensure accurate analysis.
