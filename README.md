@@ -1,9 +1,19 @@
-# Adidas-Sales-Analysis (PowerBI, Excel)
+## Adidas-Sales-Analysis
 
-. Cleaned and processed sales data using Excel functions.
+## Technologies Used
 
-. Identified data inconsistencies and resolved discrepancies to ensure accurate analysis.
+. PowerBI
+. Excel
 
-. Developed interactive dashboards to visualize sales trends and performance metrics.
+## Description
 
-. Created detailed reports highlighting key insights for business stakeholders.
+. Developed an interactive Power BI dashboard to visualize Adidas sales data across various dimensions.
+
+. Analyzed product and retailer performance to identify profitable items and high-performing regions.
+
+. Utilized data analysis to inform strategic decisions on product distribution and sales dynamics.
+
+. Employed Power BI and data visualization techniques to enhance data-driven decision-making.
+
+. Led the project from data collection through visualization, ensuring actionable insights for stakeholders.
+
